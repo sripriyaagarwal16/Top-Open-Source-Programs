@@ -1,4 +1,4 @@
-## 🌍 Open Source Programs Beyond GSoC
+## Open Source Programs Beyond GSoC
 
 While many students focus only on **Google Summer of Code (GSoC)**, there are several other impactful open-source programs that offer **excellent mentorship, global exposure, and even higher stipends**.
 
